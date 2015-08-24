@@ -1,0 +1,49 @@
+﻿
+.centered {    
+    text-align: center;
+    vertical-align: middle;    
+}
+
+.controller {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.touchButton {
+    -moz-user-select: none; 
+    -khtml-user-select: none; 
+    -webkit-user-select: none; 
+    -o-user-select: none; 
+    width:  70px;
+    height: 70px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.resting {
+    background-color: yellow;
+}
+
+.waitingResponse {
+    background-color: orange;
+}
+
+.pressed {
+    background-color: forestgreen;
+}
+
+.communicationError {
+    background-color: red;
+}
+
+
+.motorCP {
+    background-color: lightblue;
+}
+
+.motorNum {
+    background-color: forestgreen;
+    color: yellow;
+    font-weight: bold;
+    font-size: 14px;
+}
